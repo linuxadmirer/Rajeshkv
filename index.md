@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#Text can be **bold**, _italic_, or ~~strikethrough~~.
+Project 1 Rajesh Valappil
 
 [Link to another page](./another-page.html).
 
